@@ -1,2 +1,1 @@
-# KubernetesAiPlatformProtocolPro
-Advanced KubernetesAiPlatformProtocolPro project
+.
